@@ -9,4 +9,5 @@ Esse repositório será alimentado com estudos básicos de HTML e CSS feitos na 
 ## Dia 11/06
 
 * Criação do repositório;
-* Adicionado: css-transitions
+* Adicionado: css-transitions;
+* Adicionado: rpg-wiki-page.
