@@ -1,4 +1,4 @@
-# html-css-basics
+# web-development-basics
 Pequenos conjuntos de estudos de web development.
 
 Esse repositório será alimentado com estudos básicos de HTML, CSS e JavaScript feitos na plataforma da DIO. 
