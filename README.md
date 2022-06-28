@@ -13,4 +13,7 @@ Esse repositório será alimentado com estudos básicos de HTML, CSS e JavaScrip
 
 ## Dia 17/06
 * Adicionado a subpasta: /javascript-apps;
-* Adicionado: /simple-counter — (https://github.com/stebsnusch "Original")
+* Adicionado: /counter — (https://github.com/stebsnusch "Original")
+
+## Dia 28/06
+* Computador antigo com defeito, nova configuração de Git e Github em novo computador
