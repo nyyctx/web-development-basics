@@ -17,3 +17,6 @@ Esse repositório será alimentado com estudos básicos de HTML, CSS e JavaScrip
 
 ## Dia 28/06
 * Computador antigo com defeito, nova configuração de Git e Github em novo computador
+
+# Dia 29/06
+* Adicionado: /calculator — (https://github.com/DianaMartine "Original)
