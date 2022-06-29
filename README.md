@@ -20,3 +20,4 @@ Esse repositório será alimentado com estudos básicos de HTML, CSS e JavaScrip
 
 # Dia 29/06
 * Adicionado: /calculator — (https://github.com/DianaMartine "Original)
+* Adicionado: /numbers — (https://github.com/stebsnusch "Original")
