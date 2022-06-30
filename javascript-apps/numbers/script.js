@@ -1,6 +1,6 @@
 // rodar no console!
 
-function comparadorNumbers(x, y) {
+function comparadorNumbers(num1, num2) {
     const primeiraFrase = criaPrimeiraFrase(num1, num2);
 	const segundaFrase = criaSegundaFrase(num1, num2);
 
