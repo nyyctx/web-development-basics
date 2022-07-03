@@ -1,7 +1,7 @@
 # web-development-basics
 Pequenos conjuntos de estudos de web development.
 
-Esse repositório será alimentado com estudos básicos de web-development. Serão o foco o HTML, CSS e JavaScript 
+Esse repositório será alimentado com estudos básicos de web-development. Serão o foco o HTML, CSS e JavaScript.
 
 ### Data: 11/06/2022
 
